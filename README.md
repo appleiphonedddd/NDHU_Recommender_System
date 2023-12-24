@@ -25,7 +25,7 @@ Clone the repository to your local machine by running
 git clone https://github.com/appleiphonedddd/NDHU_Lab_of_Data_Structures_2023.git
 cd NDHU_Lab_of_Data_Structures_2023
 ```
-Complie c code and execute it!
+Install Python packages by pip
 
 ```shell!
 pip install -r requirements
