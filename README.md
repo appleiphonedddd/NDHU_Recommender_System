@@ -1,6 +1,6 @@
 # NDHU_Recommender_System_2023
 
-`NDHU_Recommender_System_2023` project belongs to the Digital Learning Technology at National Dong Hwa University. The purpose of this project is to use `MovieLens 100K Dataset` dataset to inspect and verify content based algorithms and collaborative filtering performance
+`NDHU_Recommender_System_2023` project belongs to the Recommender System at National Dong Hwa University. The purpose of this project is to use `MovieLens 100K Dataset` dataset to inspect and verify content based algorithms and collaborative filtering performance
 
 ## Contents
 
